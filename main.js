@@ -5,6 +5,8 @@ function clicked(){
   
   var coruser = "test";
   var corpass = "123";
+   var coruser = "test1";
+  var corpass = "1234";
   if(user.value == coruser){
     if(pass.value == corpass){
       window.alert("You are logged in as " + user.value);
